@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vqndevc" alt="vqndevc" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on [English Dictionary](https://github.com/vqnDevc/English-Dictionary)
 
 - 🌱 I’m currently learning **oop-java, embedded C, kotlin**
@@ -19,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/văn quyến" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="văn quyến" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quyến-phan-555532274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quyến-phan-555532274" height="30" width="40" /></a>
+<a href="https://fb.com/Vaquynne.uet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="văn quyến" height="30" width="40" /></a>
 <a href="https://instagram.com/ekkjdo.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekkjdo.7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ego" height="30" width="40" /></a>
 </p>
