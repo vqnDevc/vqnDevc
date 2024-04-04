@@ -35,17 +35,19 @@
 <a href="https://fb.com/Vaquynne.uet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="văn quyến" height="30" width="40" /></a>
 <a href="https://instagram.com/ekkjdo.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekkjdo.7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ego" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Vaquynne.uet" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/messenger.svg" alt="phamson" height="30" width="40" /></a>
+<a href="https://github.com/vqnDevc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="phamson" height="30" width="40" /></a>
 </p>
 <br/>
 <h2 align="center">🛠️ Languages, Frameworks and Tools 🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,c,cs,cpp,cmake,css,discord,docker,esclipse,github,gmail,html,idea,js,kotlin,matlab,nodejs,postman,stackoverflow,vscode,windows,ubuntu,sqlite,spring,py,ps,npm,mysql"/>
+    <img src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,c,cs,cpp,cmake,css,discord,docker,eclipse,github,gmail,html,idea,js,kotlin,matlab,nodejs,postman,stackoverflow,vscode,windows,ubuntu,sqlite,spring,py,ps,npm,mysql"/>
   </a>
 </p>
 
 <br/>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnqdevc&theme=2077" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vqndevc&theme=2077" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vqndevc&show_icons=true&locale=en&layout=compact" alt="vqndevc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vqndevc&show_icons=true&locale=en" alt="vqndevc" /></p>
